@@ -6,7 +6,7 @@ Context: I was planning a trip there, and first, I needed to understand when. Di
 
 <img src="peyto-lake.webp" width="50%" height="auto">
 
-[source](https://www.travelawaits.com/2561483/peyto-lake-how-to-visit/)
+[img source](https://www.travelawaits.com/2561483/peyto-lake-how-to-visit/)
 
 To understand this, we will do the following:
 - Use the Sentinel Hub Python package to create a mosaic image (to have the least cloud coverage possible) of selected lakes for each month in the last 7 years. Our go-to satellite for this is Sentinel 2.
