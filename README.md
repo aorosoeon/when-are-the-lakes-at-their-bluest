@@ -4,7 +4,8 @@ A small project to understand what month you should go to Banff and Jasper Natio
 
 Context: I was planning a trip there, and first, I needed to understand when. Different articles advise going there in June, July, or August. But what month has the craziest blue lakes?
 
-picture
+![Peyto Lake in Banff, Canada](peyto-lake.webp)
+[source](https://www.travelawaits.com/2561483/peyto-lake-how-to-visit/)
 
 To understand this, we will do the following:
 - Use the Sentinel Hub Python package to create a mosaic image (to have the least cloud coverage possible) of selected lakes for each month in the last 7 years. Our go-to satellite for this is Sentinel 2.
