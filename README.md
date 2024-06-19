@@ -4,7 +4,7 @@ A small project to understand what month you should go to Banff and Jasper Natio
 
 Context: I was planning a trip there, and first, I needed to understand when. Different articles advise going there in June, July, or August. But what month has the craziest blue lakes?
 
-![Peyto Lake in Banff, Canada](peyto-lake.webp)
+<img src="peyto-lake.webp" width="50%" height="auto">
 [source](https://www.travelawaits.com/2561483/peyto-lake-how-to-visit/)
 
 To understand this, we will do the following:
